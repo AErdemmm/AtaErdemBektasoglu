@@ -1,0 +1,4 @@
+Hocam adc ile pwm bağladım ardından gerekli konfigrasyonlardan sonra
+adcden okudum değerleri weighte döndürdükten soran train perceptron aracılığıyla or mantık kapısına göre weightleri 10k iterasyona kadar trainledim.
+USB ile kartı bağlamaya çalıştım fakat bazı kodları yazsamda hercules.exe kullanrak başarılı bir sonuç alamadım. Teşekkürler.
+Video Link:https://drive.google.com/drive/folders/1FTr6_vB8jo0_Yl1JQquDa3q42JlyG4-v?usp=sharing
